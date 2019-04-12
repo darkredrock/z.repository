@@ -1,1 +1,1 @@
-# z-z
+Z.repository is for learning
